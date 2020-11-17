@@ -1,15 +1,12 @@
 
-# 쇼핑몰 웹사이트
+# 아나바다
 
 ## 사용한 skill 및 지식
 - Java
-- Spring Framework
-- MyBatis Framework
-- jQuery
+- Spring
 - HTML
 - JSP
 - Oracle DB
-- Apache Tomcat
 
 <br>
 
